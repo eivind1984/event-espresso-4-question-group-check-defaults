@@ -20,7 +20,6 @@ function my_custom_check_eventcheckboxes() {
                 $("#espresso_events_Registration_Form_Hooks_Extend_additional_questions_metabox #event-question-group-3 :checkbox").prop('checked', true);
                 $("#espresso_events_Registration_Form_Hooks_Extend_primary_questions_metabox #event-question-group-2 :checkbox").prop('checked', true);
                 $("#espresso_events_Registration_Form_Hooks_Extend_primary_questions_metabox #event-question-group-4 :checkbox").prop('checked', true);
-                $( "[name='externalURL']" ).parent().css( "display", "none" );
         });
     </script>
 
